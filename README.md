@@ -20,6 +20,7 @@ Meu objetivo é crescer profissionalmente na área da tecnologia, participar de 
 - Automação com Python
 - Estrutura de Dados
 - Banco de Dados
+- Engenharia de Prompt
 
 ---
 
